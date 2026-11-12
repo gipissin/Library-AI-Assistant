@@ -1,0 +1,15 @@
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/
+
+# Arquivos de ambiente
+.env

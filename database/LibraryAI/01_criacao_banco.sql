@@ -1,0 +1,5 @@
+CREATE DATABASE LibraryAI;
+GO
+
+USE LibraryAI;
+GO
